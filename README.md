@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @khushbu-bhandari
 - 👀 I’m interested in Data Analytics and AI&ML
-- 🌱 I’m currently learning Data Analytics, SQL, powerBi.
+- 🌱 I’m currently learning Python,Data Analytics, SQL, powerBi.
+
 
 <!---
 khushbu-bhandari/khushbu-bhandari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
